@@ -1,0 +1,16 @@
+F:\DHONONJOY\HMS_DEMO\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\DHONONJOY\HMS_DEMO\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\DHONONJOY\HMS_DEMO\DAL\bin\Debug\net6.0\DAL.dll
+F:\DHONONJOY\HMS_DEMO\DAL\bin\Debug\net6.0\DAL.pdb
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.dll
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.pdb
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.Migrations.initDb.resources
+F:\DHONONJOY\HMS_DEMO\DAL\obj\Debug\net6.0\DAL.csproj.GenerateResource.cache
